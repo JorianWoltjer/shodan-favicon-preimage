@@ -7,7 +7,7 @@ This tool implements a brute force method of generating any [preimage](https://e
 ![Shodan search result for `http.favicon.hash:1337` showing only jorianwoltjer.com](https://github.com/JorianWoltjer/shodan-favicon-preimage/assets/26067369/52917489-fc72-4d03-81bb-42cfc6ae07e1)
 
 Read more about the method and implementation in my blog post here:  
-https://jorianwoltjer.com/blog/p/coding/shodan-favicon-preimage
+["How I got a Shodan Favicon Hash = 1337"](https://jorianwoltjer.com/blog/p/coding/shodan-favicon-preimage)
 
 ## Installation
 
